@@ -1,0 +1,49 @@
+Starbucks
+802-804 E University Blvd
+Restaurant, coffee
+32.23146
+-110.95907
+Target
+1650 S Milton Rd
+Store, Shopping
+35.184212
+-111.659691
+Engineering
+Learning, NAU
+2112 S Huffer Ln
+35.174320
+-111.655823
+Subway
+Restaurant, Sandwiches 
+1304 S Plaza Way
+35.187590
+-111.663270
+Michaels
+Crafts, Store
+1500 Riordan Ranch St
+35.185770
+-111.659450
+Ulta
+Store, Accessories
+1560 S Riordan Ranch St
+35.184870
+-111.659280
+Savers
+Thrift, Store
+5060 US-89
+35.223598
+-111.58412
+Walmart
+Store, Shopping
+2601 E Huntington Dr
+35.192791
+-111.627571
+Chipotle
+Restaurant, burritos
+1111 S Plaza Way
+35.1872711
+-111.6641922
+Kohs
+500 W Forest Meadows St
+35.1787796
+-111.66815
